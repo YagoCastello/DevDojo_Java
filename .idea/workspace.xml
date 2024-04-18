@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf7e3c88-d804-4045-82ab-9d7820c3286f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonaJava/introducao/Aula05EstruturasCondicionaisDevDojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/devdojo/maratonaJava/introducao/Aula04OperadoresDevDojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonaJava/introducao/Aula04OperadoresDevDojo.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf7e3c88-d804-4045-82ab-9d7820c3286f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
