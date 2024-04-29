@@ -5,10 +5,9 @@ import academy.devdojo.maratonaJava.academy.devdojo.maratonaJava.academy.devdojo
 public class FuncionarioTest01 {
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario();
-        funcionario.nome ="kabuto";
-        funcionario.idade=23;
-        funcionario.salarios = new double[]{1562,2013.56,1845};
-
+        funcionario.setNome("kabuto");
+        funcionario.setIdade(23);
+        funcionario.setSalarios(new double[]{1562,2013.56,1845});
 
         funcionario.imprime();
         funcionario.imprimeMediaSalario();
